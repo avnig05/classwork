@@ -1,0 +1,22 @@
+'''
+Avni Gandhi
+CIS 41A, Spring 2023
+Unit J, Exercise J
+'''
+
+#1
+A*
+A+
+A?
+A{2,3}
+
+#2
+ABBB
+ABABAB
+
+
+#3
+None of the above 
+
+#4
+.{3}
